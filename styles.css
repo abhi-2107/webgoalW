@@ -84,12 +84,12 @@ header nav a {
 
 .first {
   background-color: #282a35;
-  height: 90vh;
+  height: 500px;
   padding: 0px 90px;
 }
 .second {
   background-color: #d0eee1;
-  height: 90vh;
+  height: 500px;
   padding: 0px 90px;
 }
 
@@ -114,12 +114,23 @@ h1 {
 }
 .search {
   position: relative;
-  top: 136px;
-  left: 400px;
+  top: 156px;
+  left: 265px;
+  height: 40px;
+  width: 380px;
+  font-size: 16px;
+  border-radius: 25px;
+}
+.guide{
+  font-size: 22px;
+  color: whitesmoke;
+  position: relative;
+  top:225px ;
+  /* left: 0px; */
 }
 
 footer {
   background-color: #282a35;
-  height: 70vh;
+  height: 70vh ;
   color: whitesmoke;
 }
