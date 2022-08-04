@@ -112,6 +112,11 @@ h1 {
   top: 126px;
   text-align: center;
 }
+.search {
+  position: relative;
+  top: 136px;
+  left: 400px;
+}
 
 footer {
   background-color: #282a35;
