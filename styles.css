@@ -61,6 +61,8 @@ nav {
 }
 header nav ul {
   padding: 24px;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 header nav ul li {
